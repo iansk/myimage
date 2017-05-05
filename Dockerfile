@@ -1,1 +1,1 @@
-FROM mhart/alpine-node:6.2.2
+FROM imiell/bad-dockerfile:latest
